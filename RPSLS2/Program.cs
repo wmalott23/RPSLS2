@@ -11,13 +11,27 @@ namespace RPSLS2
             Gesture lizard = new Gesture("spock", "paper");
             Gesture spock = new Gesture("scissors", "rock");
 
-            List<Gesture> choices = new List<Gesture>();
-            choices.Add(rock);
-            choices.Add(paper);
-            choices.Add(scissors);
-            choices.Add(lizard);
-            choices.Add(spock);
+            Console.WriteLine("Greetings Player!");
+            string gameType = "";
+            while(gameType == "single" | gameType == "multi")
+            {
+            Console.WriteLine("Would you like a single-player game versus an AI opponent or a multiplayer game with a friend?");
+            Console.WriteLine("Please enter `single` for singleplayer and `multi` for multipleayer");
+            gameType = Console.ReadLine();
+            }
+            if (gameType == "single")
+            {
+                playerCharacter playerOne = new playerCharacter();
+                nonPlayerCharacter playerTwo = new nonPlayerCharacter();
+            }
+            else
+            {
+                playerCharacter playerOne = new playerCharacter();
+                playerCharacter playerTwo = new playerCharacter();
+            }
 
+            Console.WriteLine("Player One goes first!")
+            string choice = playerOne.chooseGesture();
             
 
 
