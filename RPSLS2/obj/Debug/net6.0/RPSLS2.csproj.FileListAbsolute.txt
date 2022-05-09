@@ -1,0 +1,15 @@
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\bin\Debug\net6.0\RPSLS2.exe
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\bin\Debug\net6.0\RPSLS2.deps.json
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\bin\Debug\net6.0\RPSLS2.runtimeconfig.json
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\bin\Debug\net6.0\RPSLS2.dll
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\bin\Debug\net6.0\RPSLS2.pdb
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\obj\Debug\net6.0\RPSLS2.csproj.AssemblyReference.cache
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\obj\Debug\net6.0\RPSLS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\obj\Debug\net6.0\RPSLS2.AssemblyInfoInputs.cache
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\obj\Debug\net6.0\RPSLS2.AssemblyInfo.cs
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\obj\Debug\net6.0\RPSLS2.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\obj\Debug\net6.0\RPSLS2.dll
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\obj\Debug\net6.0\refint\RPSLS2.dll
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\obj\Debug\net6.0\RPSLS2.pdb
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\obj\Debug\net6.0\RPSLS2.genruntimeconfig.cache
+C:\Users\Wesley\Desktop\devCodeCamp\C#\RPSLS2\RPSLS2\RPSLS2\obj\Debug\net6.0\ref\RPSLS2.dll
