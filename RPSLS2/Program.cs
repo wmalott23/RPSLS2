@@ -30,11 +30,8 @@ namespace RPSLS2
                 playerCharacter playerTwo = new playerCharacter();
             }
 
-            Console.WriteLine("Player One goes first!")
-            string choice = playerOne.chooseGesture();
-            
-
-
+            Console.WriteLine("Player One goes first!");
+            string choiceOne = playerOne.chooseGesture();
         }
     }
 }
