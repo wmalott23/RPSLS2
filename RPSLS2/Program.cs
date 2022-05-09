@@ -18,7 +18,7 @@ namespace RPSLS2
             choices.Add(lizard);
             choices.Add(spock);
 
-
+            
 
 
         }
