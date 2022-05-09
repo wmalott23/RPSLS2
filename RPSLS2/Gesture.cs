@@ -8,9 +8,15 @@ namespace RPSLS2
 {
     class Gesture
     {
+        //member variables
         public string winOne;
-        public string winOnePhrase;
         public string winTwo;
-        public string winTwoPhrase;
+
+        //constructor
+        public Gesture(string winOne, string winTwo)
+        {
+            this.winOne = winOne;
+            this.winTwo = winTwo;
+        }
     }
 }

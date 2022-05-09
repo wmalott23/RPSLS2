@@ -5,35 +5,21 @@ namespace RPSLS2
     {
         static void Main(string[] args)
         {
-            Gesture rock = new Gesture();
-            rock.winOne = "scissors";
-            rock.winOnePhrase = "Rock smashes Scissors";
-            rock.winTwo = "Lizard";
-            rock.winTwoPhrase = "Rock squishes Lizard";
+            Gesture rock = new Gesture("scissors", "Lizard");
+            Gesture paper = new Gesture("rock", "spock");
+            Gesture scissors = new Gesture("paper", "lizard");
+            Gesture lizard = new Gesture("spock", "paper");
+            Gesture spock = new Gesture("scissors", "rock");
 
-            Gesture paper = new Gesture();
-            paper.winOne = "rock";
-            paper.winOnePhrase = "Paper covers Rock";
-            paper.winTwo = "spock";
-            paper.winTwoPhrase = "Paper disproves Spock";
+            List<Gesture> choices = new List<Gesture>();
+            choices.Add(rock);
+            choices.Add(paper);
+            choices.Add(scissors);
+            choices.Add(lizard);
+            choices.Add(spock);
 
-            Gesture scissors = new Gesture();
-            scissors.winOne = "paper";
-            scissors.winOnePhrase = "Scissors cuts Paper";
-            scissors.winTwo = "lizard";
-            scissors.winTwoPhrase = "Scissors decapitates Lizard";
 
-            Gesture lizard = new Gesture();
-            lizard.winOne = "spock";
-            lizard.winOnePhrase = "Lizard poisons Spock";
-            lizard.winTwo = "paper";
-            lizard.winTwoPhrase = "Lizard eats Paper";
 
-            Gesture spock = new Gesture();
-            spock.winOne = "scissors";
-            spock.winOnePhrase = "Spock smashes Scissors";
-            spock.winTwo = "rock";
-            spock.winTwoPhrase = "Spock vaporizes Rock";
 
         }
     }
